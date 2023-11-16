@@ -1,0 +1,10 @@
+* {
+  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
+
+.subtitle {
+  font-weight: 300;
+  color: rgb(77, 27, 125);
+}
